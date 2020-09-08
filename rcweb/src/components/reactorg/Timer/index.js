@@ -32,7 +32,7 @@ class Timer extends React.Component {
         return (
             <div className="Card">
             <div className="Title"> 
-            Title 
+            Timer 
             </div>
                 <div className="Result">
                  Seconds: {this.state.seconds}

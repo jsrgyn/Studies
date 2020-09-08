@@ -1,0 +1,40 @@
+.CardMark {
+    overflow: hidden;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(236, 236, 236);
+    border-image: initial;
+    border-radius: 0px 10px 10px 0px;
+    flex: 0 0 30%;
+    width: 40vh;
+    height: 32vh;
+    margin: 2vh;
+}
+
+.Title {
+    color: rgb(109, 109, 109);
+    background-color: rgb(236, 236, 236);
+    padding: 0px 10px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 3;
+    text-transform: uppercase;
+    text-align: start;
+    letter-spacing: 0.08em;
+}
+
+.Result {
+    max-height: 340px !important;
+    padding: 10px;
+    overflow: auto;
+}
+
+h3 {
+    font-size: 25px;
+    line-height: 1.3;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}

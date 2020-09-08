@@ -17,7 +17,7 @@ class HelloMessage extends React.Component {
         return(
             <div className="Card">
             <div className="Title"> 
-            Title 
+            Hello Message 
             </div>
                 <div className="Result">
                 Hello {this.props.name}
